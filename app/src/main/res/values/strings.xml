@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Morning Try Out</string>
+    <string name="tv_title_txt"><u>Calculator</u></string>
+    <string name="Answer"><u>0.00</u></string>
+    <string-array name="contacts">
+        <item>Josiah</item>
+        <item>James</item>
+        <item>Lorna</item>
+        <item>Khisia</item>
+        <item>Victoria</item>
+        <item>Tapiwa</item>
+        <item>Ephraim</item>
+        <item>Abdifatah</item>
+        <item>Michelle</item>
+        <item>Ryan</item>
+        <item>Emmanuel</item>
+        <item>Donald</item>
+        <item>Quinton</item>
+        <item>Patrick</item>
+        <item>Janet</item>
+        <item>Leah</item>
+        <item>Bobby</item>
+        <item>Jared</item>
+        <item>Karen</item>
+        <item>Dennis</item>
+        <item>Glory</item>
+        <item>Elsie</item>
+        <item>Janice</item>
+    </string-array>
+</resources>
